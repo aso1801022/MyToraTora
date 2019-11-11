@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyToraTora</string>
+    <string name="toratora_text">とらと〜らとらとら</string>
+    <string name="buck_text">戻る</string>
+    <string name="lose">舞妓さんの勝ちどす</string>
+    <string name="draw">あいこどす</string>
+    <string name="win">あなたの勝ちです</string>
+</resources>

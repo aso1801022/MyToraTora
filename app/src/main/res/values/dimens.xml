@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="oba_hight">100dp</dimen>
+    <dimen name="oba_width">100</dimen>
+    <dimen name="kato_width">100dp</dimen>
+    <dimen name="oba_width2">100dp</dimen>
+    <dimen name="tora_width">100dp</dimen>
+    <dimen name="tora_hight">100dp</dimen>
+    <dimen name="kato_hight">100dp</dimen>
+    <dimen name="mytoraimage_width">160dp</dimen>
+    <dimen name="mytoraImage_hight">160dp</dimen>
+    <dimen name="micoImage_width">160dp</dimen>
+    <dimen name="micoImage_higet">160dp</dimen>
+    <dimen name="mico_width">100dp</dimen>
+    <dimen name="mico_hight">100dp</dimen>
+</resources>
